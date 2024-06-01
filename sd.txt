@@ -1,0 +1,32 @@
+# model
+https://civitai.com/api/download/models/533326[tPonynai3_v51WeightOptimized.safetensors]
+
+# lora
+# -Detailers-
+# https://civitai.com/api/download/models/105721[QuasiDetailer.safetensors]
+# https://civitai.com/api/download/models/229782[Hyperdetailer.safetensors]
+# https://civitai.com/api/download/models/62833[DetailTweakerLoRA.safetensors]
+# https://civitai.com/api/download/models/87153[AddMoreDetails.safetensors]
+
+# -GenshinChara-
+# -- Sangonomiya Kokomi V2 --
+https://civitai.com/api/download/models/49010[Kokomi_V2.safetensors]
+
+
+# embed
+# -Bad Hands-
+# https://civitai.com/api/download/models/376119 # my-self-bad-hand
+# https://civitai.com/api/download/models/20068  # bad-hand-v4
+# https://civitai.com/api/download/models/125849 # bad-hand-v5 (other)
+
+
+# control
+# https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors
+
+# extension
+# https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge[Embedding-Merge]
+# https://github.com/hako-mikan/sd-webui-cd-tuner[CD-Tuner]
+
+
+# adetailer
+# https://civitai.com/api/download/models/176512 # animal ears
