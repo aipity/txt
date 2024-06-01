@@ -1,0 +1,23 @@
+{
+  "Model": "4.Counterfeit [Anime] [V3] + INP",
+  "Model_Num": "",
+  "Inpainting_Model": false,
+  "Vae": "3.Blessed2.vae",
+  "Vae_Num": "",
+  "latest_webui": true,
+  "latest_exstensions": true,
+  "detailed_download": "off",
+  "controlnet": "none",
+  "controlnet_Num": "",
+  "commit_hash": "",
+  "optional_huggingface_token": "",
+  "ngrok_token": "",
+  "zrok_token": "",
+  "commandline_arguments": "--listen --enable-insecure-extension-access --theme dark --no-half-vae --disable-console-progressbars --xformers",
+  "Model_url": "",
+  "Vae_url": "",
+  "LoRA_url": "",
+  "Embedding_url": "",
+  "Extensions_url": "",
+  "custom_file_urls": "https://raw.githubusercontent.com/aipity/txt/main/sd.txt"
+}
