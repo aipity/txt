@@ -26,6 +26,9 @@ https://civitai.com/api/download/models/49010[Kokomi_V2.safetensors]
 # extension
 # https://github.com/klimaleksus/stable-diffusion-webui-embedding-merge[Embedding-Merge]
 # https://github.com/hako-mikan/sd-webui-cd-tuner[CD-Tuner]
+https://github.com/journey-ad/sd-webui-bilingual-localization
+https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans
+
 
 
 # adetailer
